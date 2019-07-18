@@ -3,8 +3,8 @@ Ce mod est un portage de la traduction française PC de The House of Fata Morgan
 
 Il est nécessaire de posséder une Vita hackée en version 3.60/3.65 ou 3.68 ainsi que le plugin repatch afin de pouvoir utiliser ce mod (rePatch n'est pas compatible 3.69/3.70 Trinity, veuillez downgrade votre Vita en 3.60/3.65 en utilisant Modoru).   .  
 rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0     
-Vous aurez peut-être aussi besoin du plugin reF00D pour lancer le jeu suivant votre version de firmware: https://github.com/dots-tb/reF00D 
-Vous devez posséder le jeu de base (Cartouche ou démat).
+Vous aurez aussi besoin du plugin reF00D pour lancer le jeu suivant votre version de firmware: https://github.com/dots-tb/reF00D 
+Vous devez posséder le jeu de base (Cartouche ou démat). Assurez-vous d'avoir votre version spoofée du firmware en 3.69 ou plus dans "Paramètres" > "Paramètres de Henkaku" > "Version spoofée".
 
 #### INSTALLATION:
 
