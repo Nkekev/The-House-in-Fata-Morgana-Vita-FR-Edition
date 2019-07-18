@@ -25,5 +25,5 @@ Développé par Nkekev. Suivez mon compte twitter pour suivre mes projets Vita: 
  
  #### REMERCIEMENTS :
  
- Merci à [@dots_tb](https://twitter.com/dots_tb) pour le développement du plugin rePatch.
+ Merci à [@dots_tb](https://twitter.com/dots_tb) pour le développement du plugin rePatch.    
  Merci à Samia et Robin Margogne pour leur traduction exceptionnelle.
