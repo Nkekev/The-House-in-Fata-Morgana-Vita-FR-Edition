@@ -18,7 +18,7 @@ Le TitleId varie suivant la région de votre jeu, donc utilisez celui que vous p
 Développé par Nkekev. Suivez mon compte twitter pour suivre mes projets Vita: https://twitter.com/nkekev
 
 #### AUTRES INFORMATIONS : 
- * Le texte inclut dans certains éléments comme les images ou les vidéos ne sont pas traduits.
+ * Le texte inclus dans certains éléments comme les images ou les vidéos ne sont pas traduits.
  * Les caractères en majuscule ne peuvent pas être accentués comme pour la version PC car cela crée des bugs d'affichage.
  * Quelques rares éléments de l'interface utilisateur ne sont pas traduits: Ce n'est pas un oubli, certains éléments sont écrits en dur dans le code du jeu et ne sont pas modifiable aussi facilement.
  * La traduction venant du jeu PC ne concerne que le jeu de base. Ainsi Requiem for Innocence, Réincarnation et Courtes Nouvelles ne sont actuellement pas traduits. Ce mod sera mis-à-jour dès lors qu'une traduction sera disponible.
