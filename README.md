@@ -2,7 +2,8 @@
 Ce mod est un portage de la traduction française PC de The House of Fata Morgana pour la PlayStation Vita
 
 Il est nécessaire de posséder une Vita hackée en version 3.60/3.65 ou 3.68 ainsi que le plugin repatch afin de pouvoir utiliser ce mod (rePatch n'est pas compatible 3.69/3.70 Trinity, veuillez downgrade votre Vita en 3.60/3.65 en utilisant Modoru).   .  
-rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0  
+rePatch peut être téléchargé ici, avec les instructions d'installation: https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0 
+Vous devrez également peut-être besoin du plugin reF00D pour lancer le jeu suivant votre version de firmware: https://github.com/dots-tb/reF00D 
 Vous devez posséder le jeu de base (Cartouche ou démat).
 
 #### INSTALLATION:
