@@ -15,6 +15,8 @@ Placez le dossier `repatch` à la racine de votre carte mémoire.
 Dans le dossier `repatch` se trouve un dossier appelé `RENAME_WITH_YOUR_TITLEID`. Renommez-le par le TitleId de votre jeu.  
 Le TitleId varie suivant la région de votre jeu, donc utilisez celui que vous possédez:  
 - Amérique (démat ou cartouche Limited Run Games) : `PCSE01305`
+- Japon : `PCSG00961` INCOMPATIBLE, moteur de jeu totalement différent
+- Europe : Jeu pas encore sorti (LimitedRunGames cherche un éditeur ??)
 
 Développé par Nkekev. Suivez mon compte twitter pour suivre mes projets Vita: https://twitter.com/nkekev
 
