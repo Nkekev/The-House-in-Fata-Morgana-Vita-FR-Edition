@@ -9,7 +9,7 @@ Assurez-vous d'avoir votre version spoofée du firmware en 3.69 ou plus dans "Pa
 
 #### INSTALLATION:
 
-##### [Télécharger ici The House in Fata Morgana FR Edition](https://github.com/Nkekev/The-House-in-Fata-Morgana-Vita-FR-Edition/archive/1.1.zip)
+##### [Télécharger ici The House in Fata Morgana FR Edition](https://github.com/Nkekev/The-House-in-Fata-Morgana-Vita-FR-Edition/archive/1.2.zip)
 
 Placez le dossier `repatch` à la racine de votre carte mémoire.  
 Dans le dossier `repatch` se trouve un dossier appelé `RENAME_WITH_YOUR_TITLEID`. Renommez-le par le TitleId de votre jeu.  
